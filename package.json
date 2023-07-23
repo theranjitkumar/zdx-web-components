@@ -1,0 +1,11 @@
+{
+  "name": "zdx-components",
+  "version": "1.0.0",
+  "description": "Widgets for zdx web application",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Team Zdx",
+  "license": "ISC"
+}

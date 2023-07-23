@@ -1,5 +1,5 @@
 {
-  "name": "zdx-components",
+  "name": "zdx-web-components",
   "version": "1.0.0",
   "description": "Widgets for zdx web application",
   "main": "index.js",
